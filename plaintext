@@ -1,0 +1,20 @@
+remove index.css file clases all and then rmeove app.css
+and then 
+import google fonts (Source Sans pro 400 600 and 700) url link to index.css
+
+then
+
+Component Folder
+
+why we create because when we need shared Component or same Component into different places then we make into
+
+
+then 
+
+Scenes
+
+because we create this when we need files struture that show on frontend
+
+Sub into Scenes
+
+we create folder for every page that we show into frontend
